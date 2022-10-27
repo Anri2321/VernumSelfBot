@@ -1,0 +1,42 @@
+{
+    "Main": {
+        "Prefix": ".",
+        "Delete timer": 100,
+        "Mode": "embed",
+        "Theme": "ethone",
+        "Stream URL": "https://www.twitch.tv/ninja",
+        "Scrape on group join": "on",
+        "Auto group leave": "off",
+        "Toast notifications": "on",
+        "Webhook Logging": "off",
+        "DM Logging": "on",
+        "Revenge ghostping": "off",
+        "Anti report": "off",
+        "Anti report delay": 900,
+        "Anti tokenlog": "on",
+        "Anti tokenlog delay": 180,
+        "Anti DM advertise": "off",
+        "Auto decline fas": "off",
+        "Afk mode": "off",
+        "Afk response": "Hey, please contact me later! I'm busy right now.",
+        "Afk response cooldown": 600,
+        "Token sniper": "on",
+        "Nitro sniper": "on",
+        "Giveaway joiner": "on",
+        "Giveaway word blacklist": [
+            "selfbot",
+            "ban",
+            "test",
+            "bot"
+        ],
+        "Giveaway cooldown": 78,
+        "Presence": "online",
+        "Capmonster API key": "key-here",
+        "Hide console on startup": "off",
+        "Hide console delay": 30
+    },
+    "Login": {
+        "Token": "",
+        "Discord Password": ""
+    }
+}
